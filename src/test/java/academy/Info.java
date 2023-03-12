@@ -180,4 +180,11 @@ public class Info {
         ;
 
     }
+/*
+* .formParam()
+* when send body in form  x-www-form-urlencoded
+* BY use Hasmap to save params
+* Then You should choose in content type application/x-www-form-urlencoded
+* as  ContentType.URLENC
+* */
 }
